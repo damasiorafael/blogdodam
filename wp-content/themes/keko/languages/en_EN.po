@@ -1,0 +1,702 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: themes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-02 16:45+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Micheal Kelsinger <mkelsinger@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\mkels\\preview\\wp-content\\themes"
+"\\keko\n"
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/archive.php:15
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/index.php:15
+msgid "Read full post of "
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/archive.php:24
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/index.php:24
+msgid "Posted by"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/archive.php:24
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/index.php:24
+msgid " under"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/archive.php:50
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/index.php:59
+msgid "<strong>Tags:</strong>&nbsp;"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/archive.php:56
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/index.php:65
+msgid "Comments (0)"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/archive.php:56
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/index.php:65
+msgid "Comments (1)"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/archive.php:56
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/index.php:65
+msgid "Comments (%)"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/comments.php:19
+msgid "No Comments Yet"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/comments.php:19
+msgid "1 Comment Already"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/comments.php:19
+msgid "% Comments Already"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/comments.php:22
+msgid "stay updated with"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/comments.php:22
+msgid "Subscribe to comments feed"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/footer.php:23
+msgid "Most Commented"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/footer.php:39
+msgid "Random Articles"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/footer.php:59
+msgid "Recent Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/footer.php:64
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/sidebar.php:29
+msgid "Recently in"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/footer.php:72
+msgid "Click here to read more &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/footer.php:93
+msgid "Copyright"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/functions.php:31
+msgid "Main Navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/index.php:34
+msgid "Continue Reading &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/index.php:38
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/page.php:20
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/single.php:23
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/page-templates/template-full-width.php:26
+msgid "...Continue Reading &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/sidebar.php:5
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:269
+msgid "RSS Feeds"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/sidebar.php:7
+msgid "Post Entries Feeds"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/sidebar.php:8
+msgid "Post Comments Feeds"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/sidebar.php:15
+msgid "Links"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/sidebar.php:46
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/sidebar.php:52
+msgid "Popular Tags"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/sidebar.php:60
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:253
+msgid "Recent Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/sidebar.php:66
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/sidebar.php:72
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:106
+msgid "Header Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:107
+msgid "Site Logo"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:108
+msgid "Upload your logo here."
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:115
+msgid "Custom Header Title"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:116
+msgid ""
+"If not using logo, enter your custom header title here.<br /><em>*optional - "
+"default site name will be use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:122
+msgid "Custom Header Text"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:123
+msgid ""
+"Enter your custom header text here.<br /><em>*optional - default site "
+"description will be use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:129
+msgid "Favourite Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:130
+msgid ""
+"Upload your fav icon here. <em>prefered 16x16 or 32x32 image dimension</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:139
+msgid "Typography Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:140
+msgid "Body Font"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:141
+msgid "Choose a font for the body text."
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:148
+msgid "Headline and Title Font"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:149
+msgid "Choose a font for the headline text."
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:156
+msgid "Navigation Font"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:157
+msgid "Choose a font for the navigation text."
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:166
+msgid "Featured Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:168
+msgid "Choose which category to featured in sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:177
+msgid "Choose which category to featured in footer"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:185
+msgid "Advertisment Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:186
+msgid "Banner 1"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:187
+msgid ""
+"Insert Banner 1 embed html code here<br /><em>*leave blank if not use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:193
+msgid "Banner 2"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:194
+msgid ""
+"Insert Banner 2 embed html code here<br /><em>*leave blank if not use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:200
+msgid "Banner 3"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:201
+msgid ""
+"Insert Banner 3 embed html code here<br /><em>*leave blank if not use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:207
+msgid "Banner 4"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:208
+msgid ""
+"Insert Banner 4 embed html code here<br /><em>*leave blank if not use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:214
+msgid "Banner 5"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:215
+msgid ""
+"Insert Banner 5 embed html code here<br /><em>*leave blank if not use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:221
+msgid "Banner 6"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:222
+msgid ""
+"Insert Banner 6 embed html code here<br /><em>*leave blank if not use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:231
+msgid "Google Adsense Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:268
+msgid "Social Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:270
+msgid ""
+"If you want to direct all your feeds to feedburner, insert you feedburner ID "
+"here <br /><em>*leave blank if not necessary</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:277
+msgid "Post Social Links"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:278
+msgid "Enable or Disable post social share button"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:287
+msgid "Enable or disable the big social button in single post"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:312
+msgid " Theme Options"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:314
+msgid " settings saved."
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:315
+msgid " settings reset."
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:479
+msgid "Save Options"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:486
+msgid "Are you sure you want to delete all saved settings for this theme?."
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:487
+msgid "Reset Options"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:517
+msgid ""
+"The image name contain invalid character, rename it and try upload it again"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:550
+msgid " Options"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/option-functions.php:550
+msgid "Theme Options"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:9
+msgid "Search for:"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:10
+msgid "Type and Press Enter"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:74
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:109
+msgid "&laquo; Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:110
+msgid "Next &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:342
+msgid "Where to?"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:410
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/post-meta.php:14
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:484
+msgid "Read more &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:836
+msgid "There is no excerpt because this is a protected post."
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:861
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1023
+msgid "F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1023
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1029
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1117
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:12
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1161
+msgid "One comment"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1162
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1163
+msgid "No Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1166
+msgid "One pingback/trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1167
+msgid "% pingbacks/trackbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1168
+msgid "No pinbacks/trackbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1171
+msgid "One trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1172
+msgid "% trackbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1173
+msgid "No trackbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1176
+msgid "One pingback"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1177
+msgid "% pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/theme-functions.php:1178
+msgid "No pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:9
+msgid "Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:11
+msgid "Sidebar widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:19
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:21
+msgid "The first footer widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:29
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:31
+msgid "The second footer widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:39
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:41
+msgid "The third footer widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:109
+msgid "Display your latest twitter."
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:120
+msgid "Twitter"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:127
+#, php-format
+msgid "Follow %1$s in Twitter"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:149
+msgid "Twitter Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:154
+msgid "Twitter ID:"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:158
+msgid "Number Of Tweets:"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:177
+msgid "Display your most commented posts."
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:183
+msgid "Most Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:218
+msgid "Name for most comment(optional):"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:222
+msgid "Total to show: "
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:227
+msgid "Show comments count:"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:229
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:317
+msgid "yes"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:230
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:318
+msgid "no"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:247
+msgid "Display your recent comments with user avatar."
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:287
+msgid "Says:"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:311
+msgid "Name for recent comment(optional):"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:315
+msgid "Enable avatar?:"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:323
+msgid "Total to show:"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:339
+msgid "Displays your latest Flickr feed."
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:346
+msgid "Flickr"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:357
+msgid "More in Flickr &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:375
+msgid "Flickr Name"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:379
+msgid "Flickr ID"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/functions/widget-functions.php:384
+msgid "Number of photos:"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/author-bio.php:9
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/author-bio.php:13
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:10
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:18
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:25
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:35
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:54
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:70
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:80
+msgid "You are here&nbsp;:"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:11
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:19
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:26
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:36
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:55
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:71
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:81
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:27
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:27
+msgid "Tag"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:59
+#, php-format
+msgid "Daily Archives &raquo; <span>%s</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:61
+#, php-format
+msgid "Monthly Archives &raquo; <span>%s</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:63
+#, php-format
+msgid "Yearly Archives &raquo; <span>%s</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:72
+msgid "Search Result"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/breadcrumbs.php:82
+msgid "404 Error Page"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/paginate.php:15
+msgid "Older Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/paginate.php:16
+msgid "&laquo; Newer Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/post-meta.php:6
+msgid "Posted in&nbsp;"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/post-meta.php:13
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/post-meta.php:19
+msgid "Tags:&nbsp;"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/post-meta.php:27
+msgid "No Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/post-meta.php:27
+msgid "One Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/post-meta.php:27
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/post-meta.php:38
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\mkels\preview\wp-content\themes\keko/lib/templates/share-single.php:2
+msgid "Like This Article? Share it!"
+msgstr ""
